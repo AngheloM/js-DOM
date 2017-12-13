@@ -73,7 +73,7 @@ Create a div element give it an id of "alias8":
 
 */
 
-var divCreate1 = document.createElement("div1");
+var divCreate1 = document.createElement("div");
 divCreate1.id = "alias8";
 divcreate1.id = "Old Man Riverwalk";
 document.getElementById("aliasParent").appendChild(divCreate1)
@@ -81,4 +81,6 @@ document.getElementById("aliasParent").appendChild(divCreate1)
 
 //Final Boss
 /*9. Without modifying the HTML file, create your own profile.*/
+
+
 
